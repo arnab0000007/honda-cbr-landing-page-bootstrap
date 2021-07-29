@@ -26,3 +26,22 @@ body{
     color: #E76F51;
     font-weight: 600;
 }
+/* Happy clients css */
+.text-large-orange{
+    color: #E76F51;
+}
+.text-dark-gray{
+    color: #6C6C6C;
+}
+.fa-star{
+color: #E77C40;
+font-size: 18px;
+}
+.text-blue{
+    color: #23A6F0;
+    font-weight: 600;
+}
+.text-dark{
+    color: #252B42;
+    font-weight: 600;
+}
